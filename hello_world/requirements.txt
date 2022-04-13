@@ -3,3 +3,6 @@ pandas
 s3fs
 xlsxwriter
 wrapt==1.13.3
+py7zr
+python_jwt
+dynamodb-encryption-sdk
