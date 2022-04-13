@@ -2,3 +2,4 @@ PyYAML
 pandas
 s3fs
 xlsxwriter
+wrapt==1.13.3
